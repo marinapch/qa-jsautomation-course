@@ -1,0 +1,21 @@
+{
+  "name": "qa-jsautomation-course",
+  "version": "1.0.0",
+  "description": "QA Automation training tasks for EPAM learning course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinapch/qa-jsautomation-course.git"
+  },
+  "keywords": [],
+  "author": "Marina Pchelintseva",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marinapch/qa-jsautomation-course/issues"
+  },
+  "homepage": "https://github.com/marinapch/qa-jsautomation-course#readme"
+}
